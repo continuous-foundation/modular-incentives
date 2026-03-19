@@ -63,13 +63,13 @@ These participants contribute perspectives from across scholarly communication, 
 :::{card} 👋 Session 1: Kickoff
 :link: session-1.md
 
-Summary, agenda, and outcomes from the January 22, 2026 kickoff. We met eachother, set some guidelines for how we will work together. See the slides and notes here.
+Kickoff meeting to introduce participants, outline the collaboration's goals, and begin exploring how licensing can enable reuse within modular science.
 :::
 
-:::{card} 🗂️ Session 2: Categorize Review Purposes
+:::{card} 🔎 Session 2: Identifying points of friction and incentives
 :link: session-2.md
 
-Participants were asked to explore potential components of modular review across several categories to begin giving form to different review purposes.
+Identifying points of friction and incentives surrounding reuse in modular research environments, with particular attention to how licensing can function as infrastructure that enables responsible reuse.
 :::
 
 **Our next meeting is March 19, 2026.**
