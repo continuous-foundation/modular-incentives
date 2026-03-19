@@ -1,7 +1,7 @@
 ---
 title: Reuse Incentives Working Group
 abstract: |
-  The **Reuse Incentives Working Group** is a collaboration between the **Continuous Science Foundation (CSF)** and **Creative Commons (CC)**. The group brings together participants from across the research ecosystem to explore how licensing can function as infrastructure that enables the reuse of research outputs in an increasingly modular research environment.
+  The **Reuse Incentives Working Group** is a collaboration between the Continuous Science Foundation (CSF) and Creative Commons (CC). The group brings together participants from across the research ecosystem to explore how licensing can function as infrastructure that enables the reuse of research outputs in an increasingly modular research environment.
 ---
 
 :::{important} Active Working Group
