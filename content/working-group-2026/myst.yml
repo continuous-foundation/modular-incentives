@@ -26,5 +26,13 @@ project:
     FAIR: Findable, Accessible, Interoperable, Reusable
   toc:
     - file: index.md
-    - file: session-1.md
-    - file: session-2.md
+    - title: Sessions
+      children:
+        - file: session-1.md
+        - file: session-2.md
+        - file: session-3.md
+        - file: session-4.md
+        - file: session-5.md
+    - file: summary.md
+    - file: recommendations.md
+    - file: next-steps.md

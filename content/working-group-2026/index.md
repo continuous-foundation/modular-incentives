@@ -1,11 +1,33 @@
 ---
 title: Reuse Incentives Working Group
 abstract: |
-  The **Reuse Incentives Working Group** is a collaboration between the Continuous Science Foundation (CSF) and Creative Commons (CC). The group brings together participants from across the research ecosystem to explore how licensing can function as infrastructure that enables the reuse of research outputs in an increasingly modular research environment.
+  The **Reuse Incentives Working Group** was a collaboration between the Continuous Science Foundation (CSF) and Creative Commons (CC) that brought together participants from across the research ecosystem to explore how licensing can function as infrastructure for reuse in modular research. Between February and April 2026, the group met five times and produced a preliminary set of seven recommendations for component-level licensing and attribution in modular research, for both humans and machines.
 ---
 
-:::{important} Active Working Group
-We are continuously documenting the progress of this working group, which kicked off on February 12, 2026. There will be ongoing updates to this space, which can be edited or [updated on GitHub](https://github.com/continuous-foundation/modular-incentives), through participation in the working group sessions, or by subscribing to the [mailing list](https://groups.google.com/a/continuousfoundation.org/g/modular-incentives).
+:::{important} Contribute to this work
+The recommendations here are preliminary and intended to evolve as implementations, examples, and feedback come in. We welcome contributions — suggest [edits on GitHub](https://github.com/continuous-foundation/modular-incentives), share implementations or adoption stories, or join the conversation on the [mailing list](https://groups.google.com/a/continuousfoundation.org/g/modular-incentives).
+:::
+
+## Outputs
+
+Between February and April 2026, the working group met five times and produced a preliminary set of seven recommendations for treating licensing and attribution as infrastructure for reuse in modular research. The recommendations target component-level reuse across every level of a modular research object, for both humans and machines — with next steps focused on an OXA metadata RFC, educational activities, and adoption in existing publishing tools.
+
+:::{card} 📖 Summary
+:link: summary.md
+
+The arc of the five sessions and the themes that ran through every meeting.
+:::
+
+:::{card} ✨ Recommendations
+:link: recommendations.md
+
+A preliminary draft of seven recommendations for licensing and attribution in modular research reuse, by both humans and machines.
+:::
+
+:::{card} 🚀 Next Steps
+:link: next-steps.md
+
+How the recommendations move forward — an OXA RFC on metadata, educational activities, and adoption paths in existing projects.
 :::
 
 ## Licensing as Infrastructure for Open Science
@@ -62,17 +84,38 @@ These participants contribute perspectives from across scholarly communication, 
 
 :::{card} 👋 Session 1: Kickoff
 :link: session-1.md
+:header: **February 12, 2026**
 
 Kickoff meeting to introduce participants, outline the collaboration's goals, and begin exploring how licensing can enable reuse within modular science.
 :::
 
-:::{card} 🔎 Session 2: Identifying points of friction and incentives
+:::{card} 🔎 Session 2: Points of friction and incentives
 :link: session-2.md
+:header: **March 5, 2026**
 
 Identifying points of friction and incentives surrounding reuse in modular research environments, with particular attention to how licensing can function as infrastructure that enables responsible reuse.
 :::
 
-**Our next meeting is March 19, 2026.**
+:::{card} 🧩 Session 3: Naming reuse needs
+:link: session-3.md
+:header: **March 19, 2026**
+
+Naming the reuse needs a modular science framework should address, across publishing for reuse, attribution expectations, reuser guidance, and sharing beyond the PDF.
+:::
+
+:::{card} 📝 Session 4: Refining our guidance
+:link: session-4.md
+:header: **April 2, 2026**
+
+Turning the reuse needs into a consolidated set of recommendations with concrete tactics for licensing, attribution, tracking, and infrastructure.
+:::
+
+:::{card} 🧱 Session 5: Brainstorming by object
+:link: session-5.md
+:header: **April 16, 2026**
+
+Pressure-testing each recommendation at every level of a modular research object — paper repos, hypothesis headlines, panels of evidence, individual components, and panel dependencies.
+:::
 
 ## Acknowledgements
 
